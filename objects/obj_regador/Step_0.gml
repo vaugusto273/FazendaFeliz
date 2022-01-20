@@ -4,6 +4,7 @@ if (global.regador = true)
 {
 	cursor_sprite = spr_regador;
 	window_set_cursor(cr_none);
+	
 }
 else
 {
