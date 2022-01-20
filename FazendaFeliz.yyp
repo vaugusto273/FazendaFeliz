@@ -8,6 +8,7 @@
     {"id":{"name":"spr_regador_regando","path":"sprites/spr_regador_regando/spr_regador_regando.yy",},"order":6,},
     {"id":{"name":"obj_regador","path":"objects/obj_regador/obj_regador.yy",},"order":1,},
     {"id":{"name":"spr_crop2","path":"sprites/spr_crop2/spr_crop2.yy",},"order":1,},
+    {"id":{"name":"spr_caixa_de_semente","path":"sprites/spr_caixa_de_semente/spr_caixa_de_semente.yy",},"order":7,},
     {"id":{"name":"spr_crop1","path":"sprites/spr_crop1/spr_crop1.yy",},"order":0,},
     {"id":{"name":"spr_regador","path":"sprites/spr_regador/spr_regador.yy",},"order":5,},
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},"order":2,},
