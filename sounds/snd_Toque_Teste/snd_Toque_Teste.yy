@@ -11,14 +11,14 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "sn_Toque_Teste.mp3",
+  "soundFile": "snd_Toque_Teste.mp3",
   "duration": 2.539208,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
   },
   "resourceVersion": "1.0",
-  "name": "sn_Toque_Teste",
+  "name": "snd_Toque_Teste",
   "tags": [],
   "resourceType": "GMSound",
 }
