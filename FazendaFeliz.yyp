@@ -7,6 +7,8 @@
     {"id":{"name":"obj_crop2","path":"objects/obj_crop2/obj_crop2.yy",},"order":3,},
     {"id":{"name":"spr_regador_regando","path":"sprites/spr_regador_regando/spr_regador_regando.yy",},"order":6,},
     {"id":{"name":"obj_regador","path":"objects/obj_regador/obj_regador.yy",},"order":1,},
+    {"id":{"name":"spr_crop_molhado1","path":"sprites/spr_crop_molhado1/spr_crop_molhado1.yy",},"order":8,},
+    {"id":{"name":"obj_pa","path":"objects/obj_pa/obj_pa.yy",},"order":4,},
     {"id":{"name":"spr_crop2","path":"sprites/spr_crop2/spr_crop2.yy",},"order":1,},
     {"id":{"name":"spr_crop1","path":"sprites/spr_crop1/spr_crop1.yy",},"order":0,},
     {"id":{"name":"spr_caixadesemente","path":"sprites/spr_caixadesemente/spr_caixadesemente.yy",},"order":7,},
