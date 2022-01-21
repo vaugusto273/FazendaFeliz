@@ -1,6 +1,7 @@
 {
   "resources": [
     {"id":{"name":"obj_crop1","path":"objects/obj_crop1/obj_crop1.yy",},"order":0,},
+    {"id":{"name":"spr_area_plantio","path":"sprites/spr_area_plantio/spr_area_plantio.yy",},"order":9,},
     {"id":{"name":"spr_pa","path":"sprites/spr_pa/spr_pa.yy",},"order":4,},
     {"id":{"name":"spr_cancelar","path":"sprites/spr_cancelar/spr_cancelar.yy",},"order":3,},
     {"id":{"name":"obj_cancelar","path":"objects/obj_cancelar/obj_cancelar.yy",},"order":2,},
@@ -9,12 +10,14 @@
     {"id":{"name":"obj_regador","path":"objects/obj_regador/obj_regador.yy",},"order":1,},
     {"id":{"name":"spr_crop_molhado1","path":"sprites/spr_crop_molhado1/spr_crop_molhado1.yy",},"order":8,},
     {"id":{"name":"obj_pa","path":"objects/obj_pa/obj_pa.yy",},"order":4,},
+    {"id":{"name":"spr_crop3","path":"sprites/spr_crop3/spr_crop3.yy",},"order":11,},
     {"id":{"name":"spr_crop2","path":"sprites/spr_crop2/spr_crop2.yy",},"order":1,},
     {"id":{"name":"spr_crop1","path":"sprites/spr_crop1/spr_crop1.yy",},"order":0,},
     {"id":{"name":"spr_caixadesemente","path":"sprites/spr_caixadesemente/spr_caixadesemente.yy",},"order":7,},
     {"id":{"name":"spr_regador","path":"sprites/spr_regador/spr_regador.yy",},"order":5,},
     {"id":{"name":"snd_Toque_Teste","path":"sounds/snd_Toque_Teste/snd_Toque_Teste.yy",},"order":0,},
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},"order":2,},
+    {"id":{"name":"spr_montinho","path":"sprites/spr_montinho/spr_montinho.yy",},"order":10,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
