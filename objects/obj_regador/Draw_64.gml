@@ -1,7 +1,4 @@
 /// @description Insert description here
 // You can write your code in this editor
-if (global.regador = true)
-{
-	global.regador = false;
-	alarm[0] = 60;
-}
+draw_text(x-20, y-20, global.comidas);
+draw_set_color(c_black);
