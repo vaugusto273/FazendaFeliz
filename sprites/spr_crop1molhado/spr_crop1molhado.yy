@@ -9,7 +9,7 @@
   "swfPrecision": 2.525,
   "bbox_left": 103,
   "bbox_right": 265,
-  "bbox_top": 43,
+  "bbox_top": 34,
   "bbox_bottom": 135,
   "HTile": false,
   "VTile": false,
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"2f5ca265-c626-4efc-9b02-bf3eb39afaa6","path":"sprites/spr_crop_molhado1/spr_crop_molhado1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"2f5ca265-c626-4efc-9b02-bf3eb39afaa6","path":"sprites/spr_crop_molhado1/spr_crop_molhado1.yy",},"LayerId":{"name":"d3d325e2-0abb-46f2-bdcf-63a827f37090","path":"sprites/spr_crop_molhado1/spr_crop_molhado1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_crop_molhado1","path":"sprites/spr_crop_molhado1/spr_crop_molhado1.yy",},"resourceVersion":"1.0","name":"2f5ca265-c626-4efc-9b02-bf3eb39afaa6","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"63222b2f-73ae-4fc7-adca-28b4670908da","path":"sprites/spr_crop1molhado/spr_crop1molhado.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"63222b2f-73ae-4fc7-adca-28b4670908da","path":"sprites/spr_crop1molhado/spr_crop1molhado.yy",},"LayerId":{"name":"a5b7af57-c04f-46a0-9afb-1a876a7ba2cf","path":"sprites/spr_crop1molhado/spr_crop1molhado.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_crop1molhado","path":"sprites/spr_crop1molhado/spr_crop1molhado.yy",},"resourceVersion":"1.0","name":"63222b2f-73ae-4fc7-adca-28b4670908da","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_crop_molhado1","path":"sprites/spr_crop_molhado1/spr_crop_molhado1.yy",},
+    "spriteId": {"name":"spr_crop1molhado","path":"sprites/spr_crop1molhado/spr_crop1molhado.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"3121d77f-f066-4e62-92ba-f9c5128d8c47","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"2f5ca265-c626-4efc-9b02-bf3eb39afaa6","path":"sprites/spr_crop_molhado1/spr_crop_molhado1.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"cbc2f146-4feb-4861-aeba-ff00f088340c","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"63222b2f-73ae-4fc7-adca-28b4670908da","path":"sprites/spr_crop1molhado/spr_crop1molhado.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,
@@ -58,14 +58,14 @@
     "yorigin": 100,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_crop_molhado1","path":"sprites/spr_crop_molhado1/spr_crop_molhado1.yy",},
+    "parent": {"name":"spr_crop1molhado","path":"sprites/spr_crop1molhado/spr_crop1molhado.yy",},
     "resourceVersion": "1.3",
-    "name": "spr_crop_molhado1",
+    "name": "spr_crop1molhado",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"d3d325e2-0abb-46f2-bdcf-63a827f37090","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"a5b7af57-c04f-46a0-9afb-1a876a7ba2cf","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
@@ -73,7 +73,7 @@
     "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
-  "name": "spr_crop_molhado1",
+  "name": "spr_crop1molhado",
   "tags": [],
   "resourceType": "GMSprite",
 }

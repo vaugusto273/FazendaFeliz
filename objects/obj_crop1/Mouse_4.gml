@@ -2,12 +2,11 @@
 // You can write your code in this editor
 if (global.regador = true)
 {
-	global.regador = false;
-	sprite_index = spr_crop_molhado1;
+	sprite_index = spr_crop1molhado;
 	alarm[0] = 60;
 }
 if (global.pa = true)
 {
-	global.pa = false;
+	instance_create_depth(x, y, 1, obj_terra_para_plantar);
 	instance_destroy();
 }

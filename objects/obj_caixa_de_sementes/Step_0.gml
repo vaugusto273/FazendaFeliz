@@ -6,8 +6,3 @@ if (global.sementes = true)
 	window_set_cursor(cr_none);
 	
 }
-else
-{
-	cursor_sprite = -1;
-	window_set_cursor(cr_default);
-}

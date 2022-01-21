@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_montinho",
+    "path": "sprites/spr_montinho/spr_montinho.yy",
+  },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
