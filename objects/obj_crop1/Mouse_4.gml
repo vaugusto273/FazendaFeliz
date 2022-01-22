@@ -3,7 +3,7 @@
 if (global.regador = true)
 {
 	sprite_index = spr_crop1molhado;
-	alarm[0] = 60;
+	alarm[0] = (room_speed * 15);
 }
 if (global.pa = true)
 {
