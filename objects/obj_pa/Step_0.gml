@@ -6,3 +6,4 @@ if (global.pa = true)
 	window_set_cursor(cr_none);
 	
 }
+//Gabiru esteve aqui
