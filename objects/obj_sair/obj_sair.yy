@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_crop1",
-    "path": "sprites/spr_crop1/spr_crop1.yy",
+    "name": "spr_sair",
+    "path": "sprites/spr_sair/spr_sair.yy",
   },
   "solid": false,
   "visible": true,
@@ -21,19 +21,16 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":64,"eventType":8,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":4,"eventType":6,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":2,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objetos Tomate",
-    "path": "folders/Objects/Objetos Tomate.yy",
+    "name": "Objetos Utilitarios",
+    "path": "folders/Objects/Objetos Utilitarios.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_crop1",
+  "name": "obj_sair",
   "tags": [],
   "resourceType": "GMObject",
 }

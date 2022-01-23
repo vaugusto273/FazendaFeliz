@@ -27,8 +27,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Objetos Utilitarios",
+    "path": "folders/Objects/Objetos Utilitarios.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_cancelar",

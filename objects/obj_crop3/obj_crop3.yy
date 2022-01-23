@@ -26,8 +26,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Objetos Tomate",
+    "path": "folders/Objects/Objetos Tomate.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_crop3",

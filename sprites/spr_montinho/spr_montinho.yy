@@ -148,8 +148,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Sprites Tomates",
+    "path": "folders/Sprites/Sprites Tomates.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_montinho",
