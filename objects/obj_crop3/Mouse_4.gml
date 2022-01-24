@@ -3,4 +3,4 @@
 instance_create_depth(x, y, 1, obj_terra_para_plantar);
 instance_destroy();
 audio_play_sound(snd_Toque_Teste,1,0);
-global.comidas++;
+global.comidas= global.comidas + 2;

@@ -1,6 +1,6 @@
 {
   "bboxMode": 0,
-  "collisionKind": 1,
+  "collisionKind": 0,
   "type": 0,
   "origin": 4,
   "preMultiplyAlpha": false,
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"7a5b28fa-cbc7-4878-a315-b79738f57df2","path":"sprites/spr_caixadesemente/spr_caixadesemente.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"7a5b28fa-cbc7-4878-a315-b79738f57df2","path":"sprites/spr_caixadesemente/spr_caixadesemente.yy",},"LayerId":{"name":"3258902d-6ae5-475c-9240-4cec254dfe3a","path":"sprites/spr_caixadesemente/spr_caixadesemente.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_caixadesemente","path":"sprites/spr_caixadesemente/spr_caixadesemente.yy",},"resourceVersion":"1.0","name":"7a5b28fa-cbc7-4878-a315-b79738f57df2","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"7a5b28fa-cbc7-4878-a315-b79738f57df2","path":"sprites/spr_sementetomate/spr_sementetomate.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"7a5b28fa-cbc7-4878-a315-b79738f57df2","path":"sprites/spr_sementetomate/spr_sementetomate.yy",},"LayerId":{"name":"3258902d-6ae5-475c-9240-4cec254dfe3a","path":"sprites/spr_sementetomate/spr_sementetomate.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_sementetomate","path":"sprites/spr_sementetomate/spr_sementetomate.yy",},"resourceVersion":"1.0","name":"7a5b28fa-cbc7-4878-a315-b79738f57df2","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_caixadesemente","path":"sprites/spr_caixadesemente/spr_caixadesemente.yy",},
+    "spriteId": {"name":"spr_sementetomate","path":"sprites/spr_sementetomate/spr_sementetomate.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"9bb0c85f-17b4-484f-8f9f-810c1e372971","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"7a5b28fa-cbc7-4878-a315-b79738f57df2","path":"sprites/spr_caixadesemente/spr_caixadesemente.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"9bb0c85f-17b4-484f-8f9f-810c1e372971","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"7a5b28fa-cbc7-4878-a315-b79738f57df2","path":"sprites/spr_sementetomate/spr_sementetomate.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,
@@ -58,9 +58,9 @@
     "yorigin": 48,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_caixadesemente","path":"sprites/spr_caixadesemente/spr_caixadesemente.yy",},
+    "parent": {"name":"spr_sementetomate","path":"sprites/spr_sementetomate/spr_sementetomate.yy",},
     "resourceVersion": "1.3",
-    "name": "spr_caixadesemente",
+    "name": "spr_sementetomate",
     "tags": [],
     "resourceType": "GMSequence",
   },
@@ -69,11 +69,11 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites Tomates",
-    "path": "folders/Sprites/Sprites Tomates.yy",
+    "name": "Utilitarios",
+    "path": "folders/Sprites/Utilitarios.yy",
   },
   "resourceVersion": "1.0",
-  "name": "spr_caixadesemente",
+  "name": "spr_sementetomate",
   "tags": [],
   "resourceType": "GMSprite",
 }
