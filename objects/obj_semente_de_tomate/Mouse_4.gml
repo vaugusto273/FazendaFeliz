@@ -3,6 +3,6 @@
 
 if(global.comidas >= 1)
 {
-	global.sementes = true;
+	global.tomate = true;
 }
 audio_play_sound(snd_Toque_Teste,1,0);

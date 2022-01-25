@@ -2,9 +2,9 @@
 // You can write your code in this editor
 global.regador = false;
 global.pa = false;
-global.sementes = false;
-global.sementes2 = false;
-global.sementes3 = false;
+global.tomate = false;
+global.alface = false;
+global.milho = false;
 audio_play_sound(snd_Toque_Teste,1,0);
 cursor_sprite = -1;
 window_set_cursor(cr_default);
